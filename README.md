@@ -29,6 +29,7 @@ Since the most important aspect is the file extracted with the comments, it's cr
 The file is a CSV where the separator is a tab, denoted as \t.<br>
 <br>
 In this file, you will find the following data:<br>
+<br>
 Author - The creator of the comment,<br>
 Comment - The comment in its entirety,<br>
 Score - Number of votes (which represents the total value difference between upvotes and downvotes),<br>
