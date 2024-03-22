@@ -30,14 +30,14 @@ The file is a CSV where the separator is a tab, denoted as \t.<br>
 <br>
 In this file, you will find the following data:<br>
 <br>
-Author - The creator of the comment,<br>
-Comment - The comment in its entirety,<br>
-Score - Number of votes (which represents the total value difference between upvotes and downvotes),<br>
-Length - Word count of the comment,<br>
-Parent - comment refers to the ID of the comment or post to which the comment is replying,<br>
-Post Permalink - The direct link to the post,<br>
-Post URL - the image of the post, if it exists,<br>
-Permalink - the direct link to the individual comment.<br>
+<b>Author</b> - The creator of the comment,<br>
+<b>Comment</b> - The comment in its entirety,<br>
+<b>Score</b> - Number of votes (which represents the total value difference between upvotes and downvotes),<br>
+<b>Length</b> - Word count of the comment,<br>
+<b>Parent</b> - comment refers to the ID of the comment or post to which the comment is replying,<br>
+<b>Post Permalink</b> - The direct link to the post,<br>
+<b>Post URL</b> - the image of the post, if it exists,<br>
+<b>Permalink</b> - the direct link to the individual comment.<br>
 And a few more things,<br>
 <br>
 
