@@ -38,7 +38,7 @@ In this file, you will find the following data:<br>
 <b>Post Permalink</b> - The direct link to the post,<br>
 <b>Post URL</b> - the image of the post, if it exists,<br>
 <b>Permalink</b> - the direct link to the individual comment.<br>
-And a few more things,<br>
+And a few more things..<br>
 <br>
 
 <h1>How to use</h1><br>
