@@ -46,7 +46,8 @@ Firstly, the reddit.py file must be in the same location as the praw.ini file. B
 
 
 <h1>Citation</h1>
-Santos, B. R. (2024). Reddit extract comment. An application for automated data extraction from Reddit. Source code and releases available at https://github.com/RuiBrunoSantos/Reddit-extract-comment.
+Rui Bruno Santos. (2024). RuiBrunoSantos/Reddit-extract-comment: Version 1.0 (1.0). Zenodo. https://doi.org/10.5281/zenodo.14505944<br>
+<a href="https://doi.org/10.5281/zenodo.14505944"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14505944.svg" alt="DOI"></a>
 
 <h1>Licence</h1>
 
